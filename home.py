@@ -7,7 +7,7 @@ import streamlit as st
 st.title("Prediksi Intensitas Curah Hujan Surabaya")
 st.markdown(
     "Sistem prediksi berbasis Machine Learning menggunakan "
-    "Hybrid TabNet-XGBoost, Hybrid TabNet-XGBoost Hujan Lebat, dan Hybrid TabNet-SVR."
+    "Hybrid TabNet-XGBoost, Hybrid TabNet-XGBoost Extreme, dan Hybrid TabNet-SVR."
 )
 
 st.divider()
